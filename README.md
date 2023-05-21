@@ -1,10 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Amit Singh</h1>
 <h3 align="center">A passionate Competitive Programmer from India</h3>
-<img align= "right" alt ="Coding" width ="400" src="https://miro.medium.com/v2/resize:fit:1400/1*lhOax3cZATGZwEhG0uTYRA.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=es-amit&label=Profile%20views&color=0e75b6&style=flat" alt="es-amit" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=es-amit" alt="es-amit" /></a> </p>
+<img src ="https://miro.medium.com/v2/resize:fit:1400/1*lhOax3cZATGZwEhG0uTYRA.gif" width="400" alt="Coding" align="right">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=es-amit&label=You%20are%20visitor&color=0baee5&style=flat" alt="es-amit" /> </p>
 
 - 🌱 I’m currently learning **Android Studio and Advanced Data Structures**
 
@@ -23,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=es-amit&show_icons=true&locale=en&layout=compact" alt="es-amit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=es-amit&show_icons=true&locale=en" alt="es-amit" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=es-amit&show_icons=true&title_color=e6e6e6&locale=en" alt="es-amit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=es-amit&" alt="es-amit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=es-amit&theme=highcontrast" alt="es-amit" /></p>
