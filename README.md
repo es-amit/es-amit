@@ -1,4 +1,4 @@
-
+![logo](https://github.com/es-amit/es-amit/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Amit Singh</h1>
 <h3 align="center">A passionate Competitive Programmer from India</h3>
 <img src ="https://miro.medium.com/v2/resize:fit:1400/1*lhOax3cZATGZwEhG0uTYRA.gif" width="400" alt="Coding" align="right">
